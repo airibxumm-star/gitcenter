@@ -2,3 +2,4 @@ data.txt
 *.db
 */dist/data/users/*/*
 */data/users/*/*
+.env
